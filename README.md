@@ -6,12 +6,17 @@ The complete system:
 
 ![Bittergurka](https://raw.githubusercontent.com/aabmar/bittergurka-insert/master/img/bittergurka.jpg)
 
+Close up
+
+![Bittergurka](https://raw.githubusercontent.com/aabmar/bittergurka-insert/master/img/plants.jpg)
+
 
 All parts together:
 
+![Bittergurka](https://raw.githubusercontent.com/aabmar/bittergurka-insert/master/img/insert-printed.jpg)
+
 ![All Parts](https://raw.githubusercontent.com/aabmar/bittergurka-insert/master/img/all-parts.png)
 
-![Bittergurka](https://raw.githubusercontent.com/aabmar/bittergurka-insert/master/img/insert-printed.jpg)
 
 
 Bottom plug:
@@ -34,7 +39,4 @@ Top plug
 ![Bittergurka](https://raw.githubusercontent.com/aabmar/bittergurka-insert/master/img/top-plug.png)
 
 
-Close up
-
-![Bittergurka](https://raw.githubusercontent.com/aabmar/bittergurka-insert/master/img/plants.jpg)
 
