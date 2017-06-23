@@ -2,6 +2,8 @@
 
 This insert makes it possible to use Bittergurka as a hydroponic system using the grow medium and nutriant from the IKEA Växer series.
 
+In the stl folder, you will find STL files that can be printed on most 3D printers, including cheap FDM machines. The parts in the pictures are printed on a Wanhao Duplicator i3 $400 printer.
+
 The complete system:
 
 ![Bittergurka](https://raw.githubusercontent.com/aabmar/bittergurka-insert/master/img/bittergurka.jpg)
