@@ -4,36 +4,37 @@ This insert makes it possible to use Bittergurka as a hydroponic system using th
 
 The complete system:
 
-![Bittergurka](https://raw.githubusercontent.com/aabmar/bittergurka-insert/raw/master/img/bittergurka.jpg)
+![Bittergurka](https://raw.githubusercontent.com/aabmar/bittergurka-insert/master/img/bittergurka.jpg)
 
 
 All parts together:
 
-![All Parts](https://raw.githubusercontent.com/aabmar/bittergurka-insert/raw/master/img/all-parts.png)
+![All Parts](https://raw.githubusercontent.com/aabmar/bittergurka-insert/master/img/all-parts.png)
 
-![Bittergurka](https://raw.githubusercontent.com/aabmar/bittergurka-insert/raw/master/img/insert-printed.jpg)
+![Bittergurka](https://raw.githubusercontent.com/aabmar/bittergurka-insert/master/img/insert-printed.jpg)
 
 
 Bottom plug:
 
-![Bottom Plug](https://raw.githubusercontent.com/aabmar/bittergurka-insert/raw/master/img/bottom-plug.png)
+![Bottom Plug](https://raw.githubusercontent.com/aabmar/bittergurka-insert/master/img/bottom-plug.png)
 
 
 Insert with hole (print 1)
 
-![Insert with hole](https://raw.githubusercontent.com/aabmar/bittergurka-insert/raw/master/img/insert-hole.png)
+![Insert with hole](https://raw.githubusercontent.com/aabmar/bittergurka-insert/master/img/insert-hole.png)
 
 Insert (print 4)
 
-![Bittergurka](https://raw.githubusercontent.com/aabmar/bittergurka-insert/raw/master/img/insert.png)
+![Bittergurka](https://raw.githubusercontent.com/aabmar/bittergurka-insert/master/img/insert.png)
 
 
 
 Top plug
 
-![Bittergurka](https://raw.githubusercontent.com/aabmar/bittergurka-insert/raw/master/img/top-plug.png)
+![Bittergurka](https://raw.githubusercontent.com/aabmar/bittergurka-insert/master/img/top-plug.png)
 
 
 Close up
 
-![Bittergurka](https://raw.githubusercontent.com/aabmar/bittergurka-insert/raw/master/img/plants.jpg)
+![Bittergurka](https://raw.githubusercontent.com/aabmar/bittergurka-insert/master/img/plants.jpg)
+
